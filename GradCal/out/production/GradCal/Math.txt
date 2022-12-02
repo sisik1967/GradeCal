@@ -1,0 +1,12 @@
+Name        Surname     StudentID        Average     Grade
+John		White		202201801		80		CB
+Chris		Ander		202201802		50		DD
+Scott		Smith		202201803		70		DC
+Michell		Seward		202201804		41		DD
+Amanda		Alder		202201805		76		CC
+Michell		Seward		202201806		58		DD
+James		Baker		202201807		66		DD
+Samuel		Bickley		202201808		70		DC
+Sydney		Blake		202201809		90		BA
+Heath		Burt		202201810		77		CC
+Steven		Bullock		202201811		60		DD
